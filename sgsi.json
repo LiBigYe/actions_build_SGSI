@@ -1,13 +1,14 @@
 {
   "rom_url": "https://firmware.meizu.com/Firmware/Flyme/meizu18_Pro/9.0.1.2/cn/20210714010110/8402bdc8/update.zip",
   "rom_name": "update.zip",
-  "pack_sgsi": "SGSI.zip",
+  "pack_sgsi": "GSI
+  .zip",
   "make_type": "A",
   "rom_type": "flyme",
   "light_fix": true,
   "bug_fix": true,
   "version": "11",
-  "upload_transfer": false,
+  "upload_transfer": true,
   "upload_release": true,
   "use_7zip": true,
   "use_zip": false
